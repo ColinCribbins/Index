@@ -1,0 +1,67 @@
+body {
+    background-color:#FCEBB6;
+    background-image: url('background.gif');
+    color: #330000; 
+    font-family: Tahoma, Verdana, sans-serif;
+}
+header {
+    background-image: url('javajamlogo.jpg');
+    background-repeat: no-repeat;
+    background-color:#d2b48c;
+    height: 150px;
+    
+}
+#wrapper {
+    background-color: #fef6c2;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 3px 3px 3px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+#center {
+    text-align:center;
+}
+footer {
+    background-color: #d2b48c;
+    font-size: .60em;
+    text-align:center;
+    padding-bottom: 10px;
+    border-top: 2px solid #221811;
+}
+nav {
+    font-size: 1.25em;
+    padding-top: 2px;
+
+
+}
+nav a {
+    text-decoration: none;
+}
+h4 {
+    background-color: #d2b48c;
+    font-size: 1.2em;
+    padding-left: .5em;
+    padding-bottom: .25em;
+}
+main {
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+.details { 
+    display: flex;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%; 
+}
+img {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1 {
+    padding-top: 45px;
+    padding-left: 220px;
+    font-size: 3em;
+}
